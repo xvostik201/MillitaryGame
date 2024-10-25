@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: fe3f927cf56e76047b93415ddf30bdbe
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AileronLMat
+    second: {fileID: 2100000, guid: 3f0dc861a681db246b3b251cba519d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AileronRMat
+    second: {fileID: 2100000, guid: 8ed382a83e76f6a4dae286677dfa7a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AntennasMat
+    second: {fileID: 2100000, guid: 9ec7d9da238f611469b49a4015ed4088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BladesMat
+    second: {fileID: 2100000, guid: 08bad43543dafbd41958cbcc4a5c4222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ElevatorLMat
+    second: {fileID: 2100000, guid: 27628e252c0f03b4aa8e5202c69db0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ElevatorRMat
+    second: {fileID: 2100000, guid: b42dbda691a7bb94e9f33db4fee06249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EngineMat
+    second: {fileID: 2100000, guid: 5b1c154b46ba64b47a02045fcf3633ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlapL1Mat
+    second: {fileID: 2100000, guid: 9c811d00692dfce47ad5fa117129e8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlapL2Mat
+    second: {fileID: 2100000, guid: 16f13b0f62739d942b6bc1fcef03132c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlapR1Mat
+    second: {fileID: 2100000, guid: a7903fe14846d3f4fa6f101705392c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlapR2Mat
+    second: {fileID: 2100000, guid: 444820c44584fea40965a5a5f918e1e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FuselageMat
+    second: {fileID: 2100000, guid: ec07216606da71e4799f0d3d716206a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GearBoxBMat
+    second: {fileID: 2100000, guid: dfd1d4ec7b84cd44085a7de5b71bf30c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GearBoxFMat
+    second: {fileID: 2100000, guid: a00047c9ef6db9c47b5d2ad4f2ce3709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HStabilizerLMat
+    second: {fileID: 2100000, guid: 856ced26cf01d8749bd6eec2c17c12d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HStabilizerRMat
+    second: {fileID: 2100000, guid: 320d36b9e93ed444ba865999d0bbdf43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HellfirePylonLMat
+    second: {fileID: 2100000, guid: b17fa55769dfcdb479e19d10bee22f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HellfirePylonRMat
+    second: {fileID: 2100000, guid: 0ff0ca49bd14c9843a2bbc289a27df30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JawNMat
+    second: {fileID: 2100000, guid: 9a063b39b2dce124c95148cd61c67e8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightsMat
+    second: {fileID: 2100000, guid: 3f01ba8c07ab03c459978a39a99790a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PropellerMat
+    second: {fileID: 2100000, guid: 7b8874b1d119fac4cb3a8b8484124dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PylonL1Mat
+    second: {fileID: 2100000, guid: ecadef8e88864d342bd5776559568e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PylonL2Mat
+    second: {fileID: 2100000, guid: 21f035015e6afd74f8e814a2431ac905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PylonR1Mat
+    second: {fileID: 2100000, guid: 58ead48abcd591647acef7f76042f452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PylonR2Mat
+    second: {fileID: 2100000, guid: bf9ab782c7ce8ff43bd0dc27786b7653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RudderMat
+    second: {fileID: 2100000, guid: 8f8c7430c1953b647bc87604f9e027e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scissor1NMat
+    second: {fileID: 2100000, guid: 0211e9302b5b34e4a959d65f789b4f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scissor2NMat
+    second: {fileID: 2100000, guid: ff15d9314b12c20478bbba0aa19d7571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SensorMat
+    second: {fileID: 2100000, guid: 204a76ef7af28d24fb9eefd79b00cca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SensorMount1Mat
+    second: {fileID: 2100000, guid: 34ecdcefeb27c434a8be3ae06613949c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SensorMount2Mat
+    second: {fileID: 2100000, guid: a60fc60c89eedb8419531fca5854fae3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strut1NMat
+    second: {fileID: 2100000, guid: 475db996f108df5429e649705e50c392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strut2NMat
+    second: {fileID: 2100000, guid: 1d36591e3f034fe49bbc19d980044bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrutLMat
+    second: {fileID: 2100000, guid: d37ec27ccb434b649bf2224f1d3db744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StrutRMat
+    second: {fileID: 2100000, guid: e16494a3e35a428418cb16fd28fc0128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VStabilizerMat
+    second: {fileID: 2100000, guid: 253a36b736d0d42448a9d6fa46856ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelLMat
+    second: {fileID: 2100000, guid: 834d4152eee65e74f8f86e34b78a958c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelNMat
+    second: {fileID: 2100000, guid: 7acb6fe43f75a7a478b1f8d8584bc7b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelRMat
+    second: {fileID: 2100000, guid: 765ce1a2f3e46ce4fbb413ce947c4b8b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
